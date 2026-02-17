@@ -19,6 +19,7 @@ Data is used for:
 - Displaying stock & cryptocurrency market data
 - Improving performance and stability
 - Analytics and security/fraud prevention
+
 We do not sell, rent, or trade personal data, and we do not use personal data for personalized advertising.
 
 ## 4. Third-Party Services
@@ -27,6 +28,7 @@ The Application uses:
 - Google Play Services
 - Google Analytics for Firebase
 - Firebase Crashlytics
+
 Limited data may be shared strictly for authentication, analytics, security, and performance monitoring.
 
 ## 5. Artificial Intelligence Disclaimer

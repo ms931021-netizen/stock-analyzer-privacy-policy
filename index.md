@@ -1,61 +1,103 @@
-Privacy Policy for Stock Analyzer
 
-Last updated: December 2025
+Stock Analyzer – Privacy Policy
+Effective Date: January 4, 2026
 
-Stock Analyzer respects your privacy and is committed to protecting user data. This Privacy Policy explains how information is collected, used, and safeguarded when using the Stock Analyzer mobile application.
+1. Introduction
+This Privacy Policy applies to the Stock Analyzer mobile application ("Application") developed by Mohit Sharma ("Service Provider"). The Application is provided as a free service and offered “AS IS.”
 
-Information We Collect
+2. Information We Collect
+We may collect:
 
-User-provided data: Portfolio details, feedback messages, and optional screenshots submitted via the Help & Support section.
+Personal Information: Name, email address, profile photo
 
-Device information: App version and basic device metadata for troubleshooting.
 
-Usage data: Anonymous usage information to improve app stability and performance.
+Device Information: IP address, device model, OS, app version
 
-How We Use Information
 
-To display crypto prices, GMP data, and AI-based market insights.
+Usage Data: Screens visited, session duration, feature interactions
 
-To store portfolio data locally on your device.
 
-To respond to user feedback and support requests.
+Crash & Performance Data: Error logs and diagnostics
 
-To improve app performance and reliability.
 
-Data Storage
+Authentication Data: Processed securely via Firebase Authentication
 
-Portfolio data is stored locally on the user’s device.
 
-Support messages are sent securely to our support email system.
+3. Purpose of Data Collection
+Data is used for:
 
-We do not sell, rent, or share personal data with third parties.
+User authentication and account management
 
-Third-Party Services
 
-The app uses trusted third-party services:
+Providing AI-based market analysis
 
-Public cryptocurrency data providers (e.g., CoinGecko)
 
-Firebase Cloud Functions for secure backend communication
+Displaying stock & cryptocurrency market data
 
-These services may collect limited technical data required for operation.
 
-Financial Disclaimer
+Improving performance and stability
 
-Stock Analyzer does not provide financial or investment advice. All market data and AI signals are for informational purposes only. Users are solely responsible for their trading decisions.
 
-Data Security
+Analytics and security/fraud prevention
 
-We use industry-standard security practices to protect user data. However, no method of transmission over the internet is 100% secure.
 
-Children’s Privacy
+We do not sell, rent, or trade personal data, and we do not use personal data for personalized advertising.
 
-Stock Analyzer does not knowingly collect data from children under the age of 13.
+4. Third-Party Services
+The Application uses trusted services including:
 
-Changes to This Policy
+Firebase Authentication
 
-We may update this Privacy Policy from time to time. Changes will be reflected on this page.
 
-Contact Us
+Google Play Services
 
-If you have any questions about this Privacy Policy, please contact us through the in-app Help & Support section.
+
+Google Analytics for Firebase
+
+
+Firebase Crashlytics
+
+
+Limited data may be shared strictly for authentication, analytics, security, and performance monitoring.
+
+5. Artificial Intelligence Disclaimer
+The Application uses AI to analyze publicly available financial data and generate insights or signals.
+
+Important:
+AI-generated predictions are based on historical data and algorithmic models. They are not guaranteed to be accurate, complete, or reliable. Market conditions are volatile. Past performance does not guarantee future results. The Service Provider does not guarantee 100% accuracy of predictions or outcomes.
+
+6. Financial Disclaimer
+The Application provides market analysis for informational and educational purposes only. It does not provide financial, investment, legal, or tax advice and does not act as a financial advisor, broker, or portfolio manager.
+
+All investment decisions are made at the user's own risk. The Service Provider is not responsible for financial losses resulting from use of the Application.
+
+7. Data Accuracy
+Market data is sourced from third-party providers. We do not guarantee its accuracy, completeness, or timeliness. Data may be delayed or contain errors.
+
+8. Camera Usage
+Camera access is requested solely for updating profile photos. No images are collected without user action.
+
+9. Data Security
+All transmitted data is encrypted using industry-standard protocols. However, no system is 100% secure.
+
+10. Data Retention & Deletion
+User data is retained as necessary to provide services. Users may delete their account within the app or request deletion at:
+sstockanalyzer@gmail.com
+
+Requests are processed within a reasonable timeframe.
+
+11. Children’s Privacy
+The Application is not intended for children under 13. If such data is identified, it will be deleted promptly.
+
+12. Policy Updates
+This Privacy Policy may be updated periodically. Continued use of the Application constitutes acceptance of changes.
+
+13. Contact
+For privacy-related inquiries:
+sstockanalyzer@gmail.com
+
+14. Copyright Notice
+© 2026 Mohit Sharma. All rights reserved.
+The Stock Analyzer Application, including its design, features, AI models, branding, and content, is the intellectual property of Mohit Sharma. Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
+

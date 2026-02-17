@@ -10,36 +10,26 @@ We may collect:
 
 Personal Information: Name, email address, profile photo
 
-
 Device Information: IP address, device model, OS, app version
-
 
 Usage Data: Screens visited, session duration, feature interactions
 
-
 Crash & Performance Data: Error logs and diagnostics
 
-
 Authentication Data: Processed securely via Firebase Authentication
-
 
 3. Purpose of Data Collection
 Data is used for:
 
 User authentication and account management
 
-
 Providing AI-based market analysis
-
 
 Displaying stock & cryptocurrency market data
 
-
 Improving performance and stability
 
-
 Analytics and security/fraud prevention
-
 
 We do not sell, rent, or trade personal data, and we do not use personal data for personalized advertising.
 
@@ -48,15 +38,11 @@ The Application uses trusted services including:
 
 Firebase Authentication
 
-
 Google Play Services
-
 
 Google Analytics for Firebase
 
-
 Firebase Crashlytics
-
 
 Limited data may be shared strictly for authentication, analytics, security, and performance monitoring.
 

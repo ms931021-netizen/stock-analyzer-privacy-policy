@@ -1,4 +1,3 @@
-# Stock Analyzer – Privacy Policy
 **Effective Date: January 4, 2026**
 
 ## 1. Introduction
